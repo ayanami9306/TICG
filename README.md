@@ -1,2 +1,4 @@
 # TICG
-Theretically Informed Coarse Grained
+Theretically Informed Coarse Grained (Grid Implementation)
+
+Developing...

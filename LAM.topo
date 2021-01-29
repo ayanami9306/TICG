@@ -1,0 +1,5 @@
+dp 32
+fraction 0.5
+densitychain 128
+boxdim 19.933 19.933 4.984
+numgrid 24 24 6
